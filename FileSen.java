@@ -176,5 +176,5 @@ CREATE SEQUENCE public.z_rutas_x_seq
 	START 1;
 	   * */
 		  
-
+/*otro comentario */
 }
